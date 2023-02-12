@@ -10,7 +10,7 @@ I'm a passionate developer👩‍💻that enjoys giving back to the opensource c
 <br/>  
 
 
-## Rapidfire  
+🙋 A bit about me:
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on
