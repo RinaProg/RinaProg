@@ -23,9 +23,6 @@ Python with Framework Flask.
 - 📝 I have Learn - C, C++, MySql, SQLAlchemy, JQuery  
   
 
-- 📧 How to reach me:  nathrina152@gmail.com  
-  
-
 - ⚡ Fun fact: <> Sleep 404..</>  
 
 
@@ -42,7 +39,8 @@ Python with Framework Flask.
 
 ## 🌎 Reach Me
 <div style="padding: 25px 0;">
-<a href="https://www.linkedin.com/in/timbakerx/" style="padding: 8px; width: 40px; height: 40px;">
+<a href="https://www.linkedin.com/in/rina-nath-0b134a261
+/" style="padding: 8px; width: 40px; height: 40px;">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
 </div>
