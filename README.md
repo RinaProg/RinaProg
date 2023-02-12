@@ -40,6 +40,13 @@ Python with Framework Flask.
 
 <br/>  
 
+🌎 Reach Me
+<div style="padding: 25px 0;">
+<a href="https://www.linkedin.com/in/timbakerx/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
+
 
 ## Languages and Tools  
 <div align="center">  
@@ -58,18 +65,11 @@ Python with Framework Flask.
 
 <br/>  
 
-
+<br/>  
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+<br/>
 
 <br />
 
