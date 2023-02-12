@@ -37,7 +37,7 @@ Python with Framework Flask.
 
 <br/>  
 
-## 🌎 Reach Me
+## 🌎 Reach Me:
 <div style="padding: 25px 0;">
 <a href="https://www.linkedin.com/in/rina-nath-0b134a261
 /" style="padding: 8px; width: 40px; height: 40px;">
@@ -46,7 +46,7 @@ Python with Framework Flask.
 </div>
 
 
-## 🖥️ Languages and Tools  
+## 🖥️ Languages and Tools:  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
