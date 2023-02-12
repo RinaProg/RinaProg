@@ -26,7 +26,7 @@ Python with Framework Flask.
 - 📧 How to reach me:  nathrina152@gmail.com  
   
 
-⚡ Fun fact: Sleep 404...  
+⚡ Fun fact: <> Sleep 404..</>  
 
 
 </td><td valign="top" width="50%">
