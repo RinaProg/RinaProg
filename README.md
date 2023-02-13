@@ -74,7 +74,8 @@ Python with Framework Flask.
 
 <br/>  
 
-![](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)  
+<!-- ![](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)   -->
+[![](https://visitcount.itsvg.in/api?id=RinaProg&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
 <br/>
