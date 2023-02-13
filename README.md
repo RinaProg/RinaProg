@@ -73,8 +73,8 @@ Python with Framework Flask.
 <br/>  
 
 <br/>  
----
-![Profile views counter](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)  
+
+![](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)  
 
 
 <br/>
