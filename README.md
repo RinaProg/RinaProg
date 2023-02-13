@@ -73,8 +73,7 @@ Python with Framework Flask.
 <br/>  
 
 <br/>  
-[![](https://visitcount.itsvg.in/api?id=RinaProg&icon=0&color=0)](https://visitcount.itsvg.in)  
-
+[![](https://visitcount.itsvg.in/api?id=RinaProg&icon=1&color=0)](https://visitcount.itsvg.in)
 <br/>
 
 <br />
