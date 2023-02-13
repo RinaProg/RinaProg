@@ -74,6 +74,7 @@ Python with Framework Flask.
 
 <br/>  
 ---
+![Profile views counter](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)  
 
 
 <br/>
