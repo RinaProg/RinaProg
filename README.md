@@ -73,10 +73,7 @@ Python with Framework Flask.
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square" align="center" />
-</div>  
-<!-- ![](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)   -->
+![](https://komarev.com/ghpvc/?username=RinaProg&&style=flat-square)  
 <!-- [![](https://visitcount.itsvg.in/api?id=RinaProg&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 <br/>
