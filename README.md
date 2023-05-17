@@ -65,7 +65,7 @@ Python with Framework Flask.
 <a href="/" target="_blank"><img style="margin: 30px" src="https://thumbs.dreamstime.com/b/orm-online-reputation-management-acronym-speach-bubble-vector-illustration-136690626.jpg" alt="ORM" height="40" /></a>
 <a href="/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="Numpy" height="40" /></a>
 <a href="/" target="_blank"><img style="margin: 30px" src="https://erx.vn/Images/Content/F/download%20(1).png" alt="Pandas" height="40" /></a>
-<a href="/" target="_blank"><img style="margin: 30px" src="https://image.pngaaa.com/242/4152242-middle.png" alt="Mathplotlib" height="40" /></a>  
+<a href="/" target="_blank"><img style="margin: 30px" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" alt="BeautifulSoup" height="40" /></a>  
 <a href="/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Sklearn" height="40" /></a>
  
 </div>  
