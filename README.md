@@ -84,7 +84,7 @@ Python with Framework Flask.
 <a href="https://jwt.io/" target="_blank"><img style="margin: 30px" src="https://image.pngaaa.com/242/4152242-middle.png" alt="Mathplotlib" height="40" /></a>
   
 <a href="https://jwt.io/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Sklearn" height="40" /></a>
-  
+ 
 </div>  
 
 <br/>  
