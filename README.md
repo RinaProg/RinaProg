@@ -20,7 +20,7 @@ Python with Framework Flask.
 - 🌱 I’m currently learning Machine Learning and Data Science  
   
 
-- 📝 I have Learn - C, C++, MySql, SQLAlchemy, JQuery  
+- 📝 I have Learn - Python,MySql,PL/SQL,Data Structure. 
   
 
 - ⚡ Fun fact: <> Sleep 404..</>  
