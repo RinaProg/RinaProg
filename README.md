@@ -17,10 +17,10 @@ I'm a passionate developer👩‍💻that enjoys giving back to the opensource c
 Python with Framework Flask.  
   
 
-- 🌱 I’m currently learning Machine Learning and Data Science  
+- 🌱 I’m currently learning Machine Learning and Data Science .
   
 
-- 📝 I have Learn - Python,MySql,PL/SQL,Data Structure. 
+- 📝 I have Learn -Python,MySql,PL/SQL,Data Structure . 
   
 
 - ⚡ Fun fact: <> Sleep 404..</>  
