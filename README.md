@@ -37,13 +37,13 @@ Python with Framework Flask.
 
 <br/>  
 
-## 🌎 Reach Me:
+<!-- ## 🌎 Reach Me:
 <div style="padding: 25px 0;">
 <a href="https://www.linkedin.com/in/rina-nath-0b134a261
 /" style="padding: 8px; width: 40px; height: 40px;">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
-</div>
+</div> -->
 
 
 ## 🖥️ Languages and Tools:  
