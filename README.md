@@ -43,10 +43,6 @@ Python with Framework Flask.
 /" style="padding: 8px; width: 40px; height: 40px;">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
- <a href="nathrina152@gmail.com"
-/" style="padding: 8px; width: 40px; height: 40px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Connect on Gmail" width="24" height="24">
-    </a>
 </div>
 
 
