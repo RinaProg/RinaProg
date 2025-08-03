@@ -14,7 +14,7 @@ I'm a passionate developer👩‍💻that enjoys giving back to the opensource c
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on
-Python with Framework Flask.  
+Python with Framework Django,Flask.  
   
 
 - 🌱 I’m currently learning Machine Learning and Data Science .
